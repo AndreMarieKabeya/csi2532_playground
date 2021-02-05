@@ -10,7 +10,7 @@
 # Question 3
 ![Gabarit du diagram](photos/question_3.jpg)
 
-# QUestion 4
+# Question 4
 ![Gabarit du diagram](photos/question_4.jpg)
 
 # Question 5
