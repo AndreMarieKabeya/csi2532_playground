@@ -1,34 +1,20 @@
-Synopsis
+# Laboratoire #3 soumission
 
+# Question 1
 
-First lab of the semester. Course: CSI2532
+![Gabarit du diagram](photos/question_1.jpg)
 
-Code Example
+# Question 2
+![Gabarit du diagram](photos/question_2.jpg)
 
+# Question 3
+![Gabarit du diagram](photos/question_3.jpg)
 
-Not applicable yet
+# QUestion 4
+![Gabarit du diagram](photos/question_4.jpg)
 
-Motivation
+# Question 5
+![Gabarit du diagram](photos/question_5.jpg)
 
-
-This lab is used as an intro to Git and GitHub
-
-Installation
-
-
-Not applicable
-
-API Reference
-
-
-Not applicable
-
-Tests
-
-
-Not applicable
-
-Contributors
-
-
-Andre Marie Kabeya
+# Question 6
+![Gabarit du diagram](photos/question_6.jpg)
