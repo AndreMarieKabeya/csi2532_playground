@@ -64,5 +64,4 @@ VALUES
 ## Exercice 3
 
 ![image_lab](Images/lab07.png)
-## Exercice 4
 
