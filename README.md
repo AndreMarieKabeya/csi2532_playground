@@ -8,3 +8,8 @@ avec la description du labo.
 ![Exercice_1](Images/Exercice_1.png)
 
 ## Exercice 2: Créer un client
+
+Pour cet exercice,j'ai commenc. par créer une table pour pouvoir conserver les clients(noms,token et data) puis j'ai inséré un client appelé Bob, qui possède un token unique
+mais qui ne possède cependant pas de data. Voici ainsi que l'image qui démontre la création du client.
+
+![Exercice_2](Images/Exercice_2.png)
