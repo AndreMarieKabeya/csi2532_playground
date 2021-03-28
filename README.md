@@ -22,7 +22,3 @@ Voici les résultats obtenus pour cet exercice. On peut voir que j'ai une en-tê
 Et aussi:
 
 ![Exercice_3_2](Images/Exercice_3_2.png)
-
-## Exercice 4: Authentifiez votre API
-
-## Exercice 5: jetons client
