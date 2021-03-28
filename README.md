@@ -13,3 +13,16 @@ Pour cet exercice,j'ai commenc. par créer une table pour pouvoir conserver les 
 mais qui ne possède cependant pas de data. Voici ainsi que l'image qui démontre la création du client.
 
 ![Exercice_2](Images/Exercice_2.png)
+
+## Exercice 3: Créer une API
+
+Voici les résultats obtenus pour cet exercice. On peut voir que j'ai une en-tête personnalisée, d'autant plus qu'on est en mesure de voir le nom du mutant.
+![Exercice_3_1](Images/Exercice_3_1.png)
+
+Et aussi:
+
+![Exercice_3_2](Images/Exercice_3_2.png)
+
+## Exercice 4: Authentifiez votre API
+
+## Exercice 5: jetons client
